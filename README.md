@@ -28,7 +28,7 @@ The number of failures since the last success for all the workflow runs.
 
 ## Example usage
 ```
-uses: TopazJ/workflow-failure-history@v1.0
+uses: Goodness-Giveaway/workflow-failure-history@v1.0
 with:
   token: ${{ secrets.GITHUB_TOKEN }}
   owner: TopazJ
